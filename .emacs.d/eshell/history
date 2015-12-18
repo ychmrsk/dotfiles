@@ -1,0 +1,128 @@
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+cd ..
+ls
+cd ..
+ls
+cd sicp
+ls
+sphinx
+mkdir sphinx
+cd sphinx
+ls
+sphinx-quickstart 
+ls
+ls ~/.emacs.d
+ls
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+make html
+open /Applications/Google\ Chrome.app/ _build/html/index.html
+ls
+cd _build/html
+ls
+cd ..
+cd ../..
+ls
+cd scm
+ls
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+(load "./evaluator")
+gosh
+ls
+mkdir util
+ls
+ls util
+(load "./evaluator")
+gosh
+gosh
+gosh
+gosh
+ls
+cd
+ls
+ls
+rm git_test.rst
+pwd
+ls
+cd sicp/scm
+ls
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+gosh
+exit
+cd
+cd
+ls
+cd sicp/scm
+ls
+gosh
